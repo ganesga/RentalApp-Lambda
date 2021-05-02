@@ -7,7 +7,7 @@ exports.handler = async (event, context) => {
   let responseBody = "";
   let statusCode = 0;
 
-    //ganesga
+    //ganesga git hub actions
   const params = {
     TableName: "ProductListings",
   };
